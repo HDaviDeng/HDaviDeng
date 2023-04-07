@@ -1,6 +1,7 @@
-### Hi there 👋
+### Hi there 👋 I'm Hao Deng
 
-https://github.com/HDaviDeng/HDaviDeng/blob/main/0.gif
+<img src="https://github.com/HDaviDeng/HDaviDeng/blob/main/0.gif">
+
 <!--
 **HDaviDeng/HDaviDeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
