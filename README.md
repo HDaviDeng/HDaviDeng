@@ -1,5 +1,7 @@
 ### Hi there 👋 I'm Hao Deng
 
+## Using github as a note book recording my learning progresses for now
+
 - 🔭 I’m currently working on basic programming skills & data science
 - 🌱 I’m currently learning JavaScript/ Python
 - 🤔 I’m looking for 🙆‍♂️ mentor 🙆‍♀️
